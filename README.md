@@ -11,6 +11,6 @@ Learn about a [Growth Mindset here!](https://vbchomp.github.io/reading-notes/Gro
 - [Markdown](https://vbchomp.github.io/reading-notes/Markdown.md)
 
 ### Continue with my Journey into Coding
-[Heather B's GitHub](https://vbchomp.github.io/reading-notes/)
+[Heather B's GitHub](https://github.com/vbchomp)
 
 
