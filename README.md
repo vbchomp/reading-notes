@@ -8,7 +8,7 @@ Learn about a [Growth Mindset here!](https://vbchomp.github.io/reading-notes/Gro
 
 - :clap:  for learning how to use emogis!
 
-- [Markdown Notes](https://vbchomp.github.io/reading-notes/MarkdownNotes.md)
+- [Markdown](https://vbchomp.github.io/reading-notes/Markdown.md)
 
 ### Continue with my Journey into Coding
 [Heather B's GitHub](https://vbchomp.github.io/reading-notes/)
