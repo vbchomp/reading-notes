@@ -1,6 +1,8 @@
 ## Welcome to the Reading Notes of Veebs
 Learn about a [Growth Mindset here!](https://vbchomp.github.io/reading-notes/Growth.md)
 
+[Mindsets](https://vbchomp.github.io.reading-notes/MindsetsTable.md)
+
 You can use the [editor on GitHub](https://github.com/vbchomp/reading-notes/edit/CodeFellows/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
