@@ -3,8 +3,8 @@ Learn about a [Growth Mindset here!](https://vbchomp.github.io/reading-notes/Gro
 
 ## Cool Stuff
 - Learning how to link images (next comes learning how to size them properly! :)
-  - ![Camping on the coast](campcoast.JPG)
-  - ![Neowise Comet](neowise.jpeg)
+  - ![Camping on the coast](campcoast.JPG)Camping on the coast
+  - ![Neowise Comet](neowise.jpeg)Neowise Comet
 
 - :clap:  for learning how to use emogis!
 
