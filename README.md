@@ -1,7 +1,7 @@
 ## Welcome to the Reading Notes of Veebs
 Learn about a [Growth Mindset here!](https://vbchomp.github.io/reading-notes/Growth.md)
 
-[Markdown Notes](https://vbchomp.github.io.reading-notes/MarkdownNotes.md)
+[Markdown Notes](https://vbchomp.github.io/reading-notes/MarkdownNotes.md)
 
 You can use the [editor on GitHub](https://github.com/vbchomp/reading-notes/edit/CodeFellows/README.md) to maintain and preview the content for your website in Markdown files.
 
