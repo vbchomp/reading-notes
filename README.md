@@ -7,6 +7,7 @@ Learn about a [Growth Mindset here!](https://vbchomp.github.io/reading-notes/Gro
   - ! [Neowise Comet](reading-notes/neowise.jpeg)
 
 - Emogis
+  - :clap: for learning how to use emogis!
 
 - [Markdown Notes](https://vbchomp.github.io/reading-notes/MarkdownNotes.md)
 
