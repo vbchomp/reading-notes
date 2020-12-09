@@ -50,7 +50,8 @@ IDE, or Integrated Development Environment, will include a whole suite of applic
     - Linux ignores file extensions and instead looks into the file to determine if it is text, an image or executable. So example.png in linux could be an executable that opens instead of an image.
     - Windows looks at file extensions to figure out how to open it. So it will open example.png as an image.
 
-Here's a cheatsheet with common [Linux](linux_cheatsheet.jpg) commands 
+Here's a cheatsheet with common [Linux](linux_cheatsheet.jpg) commands from makeuseof.com
+
 
 ### Continue with my Journey into Coding
 [Heather B's GitHub](https://github.com/vbchomp)
