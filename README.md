@@ -3,7 +3,7 @@ Code Fellows Code 102
 
 ## Table of Contents
 - [Module 1 - Cool Stuff on Markdown and Gowth Mindsets](module1.md)
-- [Module 2 - Text Editors and Linux commands](linux_textEdit.md)
+- [Module 2 - Text Editors and Linux commands](module2.md)
 
 
 
