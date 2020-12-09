@@ -1,8 +1,13 @@
 # Reviews
 
-## Review of Module 1
+## Table of Contents
 
-### Markdown
+- [Markdown](#Markdown) put the names of your sections or headers
+- [Links](#Links)
+
+### Review of Module 1
+
+#### Markdown
 Lightweight markup language used in GitHub Pages.
 Small file size, doesn't have styling, focuses on syntax.
 
