@@ -22,9 +22,12 @@ Small file size, doesn't have styling, focuses on syntax.
 
 section link [section link](README.md#Module-2-Text-Editors-and-Linux-commands)
 
+code blocks 
 ```html
 <h1>Header</h1>
 
 ``` 
 or indent 4 spaces
     html<h1>Header</h1>
+    
+> Only once you live.    
