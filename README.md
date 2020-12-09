@@ -20,6 +20,8 @@ These notes will be broken out by section that we are learning.
 
 
 
+
+
 ### Continue with my Journey into Coding
 [Heather B's GitHub](https://github.com/vbchomp)
 
