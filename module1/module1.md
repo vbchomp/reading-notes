@@ -1,7 +1,7 @@
 ## Module 1 - Cool Stuff on Markdown and Gowth Mindsets
 [Main Page](../README.md)
 
-- Learn about a [Growth Mindset here!](https://vbchomp.github.io/reading-notes/Growth.md)
+- Learn about a [Growth Mindset here!](Growth.md)
 
 - Learning how to link images (next comes learning how to size them properly! :)
 
