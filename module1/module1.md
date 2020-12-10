@@ -1,5 +1,5 @@
 ## Module 1 - Cool Stuff on Markdown and Gowth Mindsets
-[Main Page](https://vbchomp.github.io/reading-notes/README.md)
+[Main Page](../README.md)
 
 - Learn about a [Growth Mindset here!](https://vbchomp.github.io/reading-notes/Growth.md)
 
