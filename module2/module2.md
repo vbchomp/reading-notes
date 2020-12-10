@@ -1,5 +1,5 @@
 ## Module 2 - Text Editors and Linux commands
-[Main Page](README.md)
+[Main Page](../README.md)
 
 - Text Editors or IDE
   - Text Editors are mainly just to write code using plain text (no formatting). 
