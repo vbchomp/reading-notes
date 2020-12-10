@@ -12,6 +12,10 @@ Records changes, person who modifed files and compares changes between original 
 
 - Git is a distributed VCS that stores snapshots (commits) of the file.
 
+- View, apply or remove files.
+
+- Keeps all your project files in one repository.
+
 - Local Operations **Need to get this explained better in review**
 
 - All changes are tracked by Git and corrupted files are detected in transit.
@@ -21,10 +25,14 @@ Records changes, person who modifed files and compares changes between original 
 - States of Files in Git
   - committed data is stored in local db
   - modified data but not committed
-  - staged files wait to be committed in the next snapshot. Think VMWare.
+  - staged files wait to be committed in the next snapshot. Think similar VMWare.
 
 - Can be installed on Mac, Windows and Linux.
 - Can have a GUI
+
+- Competitors
+  - SVN
+  - Perforce
 
 ### Using Git
 
@@ -33,7 +41,7 @@ Records changes, person who modifed files and compares changes between original 
     ```cd test```
   - Initialize Git to create a new subdirectory .git and tracking has not started yet.
     ```git init```
-  - Starts tracking with an intial commit.
+  - Starts tracking with an intial commit that has a label that points to it. You can write a message in your commit to describe changes.
     ```git add *.c```
     ```git add LICENSE```
     ```git commit -m "insert a message here"```
@@ -43,12 +51,30 @@ Records changes, person who modifed files and compares changes between original 
     ```git clone https://github.com/first```
   - this makes a copy of the target repsository to a new directory
     ```git clone https://github.com/first newdirectory```
+    
+- HEAD means you are here. Or the latest shanpshot.
+
+### GitHub
+
+- Your code, in the cloud. Where open source lives. Online code storage.
+
+- Remote repository.
+
+- Uses Git to track versions, review changes and keep changes separate until they are vetted for addition to official repository.
+
+- Many Team members can work on same document.
+
+- Competitors
+  - BitBucket
+  - Atlassian
+  - AWS Code Commit
+  - GitLab
 
 ### Workflow
-- Local Repository 
-  - Working Directory is where files live
-  - Index is where they stage
-  - Head shows the most recent commit
+- Local Repository on your local machine
+  - Working Directory is where files live after you have checked out the version of the Repository.
+  - Index is the area where they stage. Changes sit here until commits.
+  - Head shows the most recent commit and checks back in to Repository as a new version.
 
 - Saving Changes
   - Untracked files are not included in the last snapshots.
@@ -59,18 +85,18 @@ Records changes, person who modifed files and compares changes between original 
   - Stage modified files.
   - Commit staged changes.
 
-- Check File Status
-  - Determines state of files
+- Check File Status of local repository
+  - Determines state of files and tells you what files have changed since your last commit.
     ```git status```
 
-- Tracking and Staging a File for Commit
+- Tracking and Staging a File for Commit - adds files from working directory to staging area
   - Single file
     ```git add filename```
   - All Files
     ```git add *```
 
-- Committing a File
-  - After staging files, commit changes and record what you did in the commit message.    
+- Committing a File takes a snapshot - small frequent commits
+  - After files are staged, commit changes and record what you did in the commit message.    
     ```git commit -m "made change x, y,z"```
 
 - Committing All Changes
@@ -78,7 +104,7 @@ Records changes, person who modifed files and compares changes between original 
     ```git commit -a```
 
 - Pushing Changes
-  - Changes need to be pushed to remote repository. 
+  - Changes pushed to remote repository. 
   - This pushes changes from the local master branch to the remote repository named origin.
     ```git push origin master```
 
@@ -87,3 +113,18 @@ Records changes, person who modifed files and compares changes between original 
 use second command.
     ```git stash```
     ```git stash apply```
+    
+### ACP GitFlow
+
+- Add
+- Commit
+- Push
+
+### Vocabulary
+- VCS
+- Git vs. Github
+- local vs remote
+- clone
+- commit
+- ACP
+- deployment
