@@ -1,5 +1,4 @@
 # Welcome to the Reading Notes of HB
-Code Fellows 
 Code 102
 
 ## Table of Contents
