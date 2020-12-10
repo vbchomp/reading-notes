@@ -1,5 +1,6 @@
 # Welcome to the Reading Notes of HB
-Code Fellows Code 102
+Code Fellows 
+Code 102
 
 ## Table of Contents
 - [Module 1 - Cool Stuff on Markdown and Gowth Mindsets](module1.md)
