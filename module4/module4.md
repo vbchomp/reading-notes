@@ -94,11 +94,16 @@
 - CSS styles the presentation
 - JavaScript adds the logic and interactivity
 
+  - html symbols 
+  - html semantic tags
+  - placeholder.com gets placeholder sized images
+  - placeimg.com similar to placeholder
+  - type in terminal to see ```live server index.html```
 
 ## Vocabulary
 - HTML / Markup
 - Semantics
-- Wireframe
+- Wireframe use draw.io or whiteboard or piece of paper
 - Personas
 - Meta
 - Content
