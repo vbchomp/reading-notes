@@ -90,6 +90,9 @@
 - Consistent
 
 ## HTML5 Layout
+- HTML structures page
+- CSS styles the presentation
+- JavaScript adds the logic and interactivity
 
 
 ## Vocabulary
