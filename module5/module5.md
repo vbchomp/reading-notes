@@ -19,3 +19,19 @@ Allows you to create rules that control each individual box (and contents)
 - Inline flow in text
   - ```<b> <i> <img> <em> <span>```
 - Boxes
+  - Width and height
+  - Borders
+  - Background colors
+
+## Inside or Outside
+- Can code inside html or in external file
+- Good practice to code external sheet to keep clean html
+  - filename.css for external
+
+## Colors
+- Uses hex codes or RGB numbers
+- Can change shades by altering saturations, hues and brightnesses
+- Can use color palette apps or adobe color
+
+## Vocabulary
+
