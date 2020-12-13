@@ -4,6 +4,11 @@
 
 I am 00101010!
 
+## Top 3 Take Aways from Videos
+- Computers have come so far from when they were just Thinking Machines
+- The amount of wires you have with the electrical signals determines the amount of data you can store (Did not know that!)
+- Progamming languages take your text and translate into binary code
+
 ## What makes the Thinking Machine a computer?
 - Take input
   - Keyboard, mouse, microphone, car data, biometrics
