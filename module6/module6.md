@@ -36,7 +36,7 @@ So always insert JavaScript tags at the end of the body element.
 - Assign variable using = sign.
   ```var newVariable = 21```
 - Variable data types
-  - string, boolean, numberical
+  - string, boolean, numerical
 - Cannot be a keyword or reserved word
 
 ## Vocabulary
