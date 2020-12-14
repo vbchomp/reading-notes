@@ -9,7 +9,7 @@ Code 102
 - [Module 5 - CSS](/module5/module5.md)
 - [Module 6a - JavaScript](/module6/module6a.md)
 - [Module 6b - How a Computer Works](/module6/module6b.md)
-
+- [Module 7 - Programming with JavaScript](/module7/module7.md)
 
 
 
