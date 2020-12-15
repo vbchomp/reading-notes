@@ -1,9 +1,8 @@
 # Module 7 - Programming with JavaScript
 [<== Main Page](../README.md)
 
-Fix this below for new module
+
 *JavaScript* 
-Allows you to create rules that control each individual box (and contents)
 
 ## Scripts
 - Scripts save instructions to perform in order
