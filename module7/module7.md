@@ -18,11 +18,11 @@
 - Assigns two values to a variable ```var area = 3 * 2```
 
 ## Operators
-- Assignment =
+- Assignment = assigns values
 - Arithmetic performs math
   - PEMDAS order of operations
 - String combine two strings
-- Comparison compares two values
+- Comparison === compares two values
 - Logical combines and returns true or false value
 
 ## Functions
@@ -33,7 +33,9 @@
     ```}```
 - Call functions
   - ```nameOfFunction();```
-
+- Declare variables outside of the function or return inside function
+- Var is global and can be accessed inside or outside of functions
+- Let is specific to the function where it is declared
 
 ## Vocabulary
 
