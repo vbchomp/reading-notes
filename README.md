@@ -10,6 +10,7 @@ Code 102
 - [Module 6a - JavaScript](/module6/module6a.md)
 - [Module 6b - How a Computer Works](/module6/module6b.md)
 - [Module 7 - Programming with JavaScript](/module7/module7.md)
+- [Module 8 - Operators and Loops](/module8/module8.md)
 
 
 
