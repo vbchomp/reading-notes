@@ -1,7 +1,12 @@
 # Welcome to the Reading Notes of HB
-Code 102
+## Where the curious come to learn one new thing a day
 
 ## Table of Contents
+Code 102
+Code 201
+Code 301 - Coming July 2021
+Code 401 - Coming October 2021
+
 - [Module 1 - Cool Stuff on Markdown and Gowth Mindsets](/module1/module1.md)
 - [Module 2 - Text Editors and Linux commands](/module2/module2.md)
 - [Module 3 - Revisions](/module3/module3.md)
