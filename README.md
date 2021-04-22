@@ -2,10 +2,10 @@
 ## Where the curious come to learn one new thing a day
 
 ## Table of Contents
-- [Code 102 - Intro to Software Development](/code102)
+- [Code 102 - Intro to Software Development](/code102/code102.md)
 - [Code 201 - Foundations of Software Development](/code201/code201.md)
-Code 301 - Coming July 2021
-Code 401 - Coming October 2021
+- [Code 301 - Coming July 2021](code301/code301.md)
+- [Code 401 - Coming October 2021](/code401/code401.md)
 
 - [Module 1 - Cool Stuff on Markdown and Gowth Mindsets](/module1/module1.md)
 - [Module 2 - Text Editors and Linux commands](/module2/module2.md)
@@ -19,7 +19,7 @@ Code 401 - Coming October 2021
 
 
 
-### Continue with my Journey into Coding
+### Continue with my Journey into Coding and Software Development below
 [Heather B's GitHub](https://github.com/vbchomp)
 
 
