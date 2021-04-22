@@ -1,5 +1,5 @@
 # Welcome to the Reading Notes of HB
-## Where the curious come to learn one new thing a day
+##** Where the curious come to learn one new thing a day**
 
 ## Table of Contents
 - [Code 102 - Intro to Software Development](/code102/code102.md)
