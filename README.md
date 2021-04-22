@@ -3,7 +3,7 @@
 
 ## Table of Contents
 - [Code 102 - Intro to Software Development](/code102)
-- [Code 201 - Foundations of Software Development](/code201)
+- [Code 201 - Foundations of Software Development](/code201/code201.md)
 Code 301 - Coming July 2021
 Code 401 - Coming October 2021
 
