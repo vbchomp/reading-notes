@@ -45,4 +45,18 @@
 * Use clear, concise, interactive, and consistent navigation
 
 ## *JS* Chapter 1 on ABC of Programming
-* :tada: I missed one one my last chapter
+* :tada: I missed one on my last chapter
+
+ ### Chapter 1a What is a script and how do I write one?
+ * A script is a set of instructions that computer uses to do something - think recipe
+ * Start by identifying your end goal, then identify steps or task to complete the goal, then code each piece
+ * Make a flowchart
+
+ ### Chapter 1b How do computers fit in with world around them?
+ * Computers use data to model things
+ * Everything is an object, each object has properties, events change the properties of objects, methods retrieve or update values of object's properties
+ 
+ ### Chapter 1c How do I write a script for a web page?
+ * HTML is the content and gives structure, CSS makes it pretty, JSS controls actions
+ * Best practice to keep separate files of each language, .html, .css, .js
+
