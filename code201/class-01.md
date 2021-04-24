@@ -24,7 +24,7 @@
   * escape characters are special codes to enter before characters that have special meaning to programming languages
      
 ## *HTML* Chapter 17 on HTML5 Layout
-* :camel: more emoji prcatice
+* :camel: more emoji practice
 * HTML5 introduced a new set of elements to minimize the amount of redundant words? in code
 * The elements decribe the content of the item instead of the element name and attribute
   * article element could stand alone 
