@@ -3,8 +3,8 @@
 
 ## Table of Contents
 
-- Module 1 [Name Here](address)
-- Module 2 [Name Here](address)
+- Class 1 [Name Here](/code201/class-01.md)
+- Class 2 [Name Here](address)
 - Module 3 [Name Here](address)
 - Module 4 [Name Here](address)
 - Module 5 [Name Here](address)
