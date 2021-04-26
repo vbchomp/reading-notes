@@ -67,3 +67,5 @@
   * `!` Logical NOT returns true if it was false `!(2 < 1)`
 * If statements allow blocks of code to run if statements are true 
 
+## How To Write a Git Commit Message - Chris Beams
+
