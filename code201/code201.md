@@ -3,8 +3,8 @@
 
 ## Table of Contents
 
-- Class 1 [First Day of Class](/readin-notes/code201/class-01.md)
-- Class 2 [Name Here](address)
+- Class 1 [First Day of Class](/reading-notes/code201/class-01.md)
+- Class 2 [Second Day of Class](/reading-notes/code201/class-02.md)
 - Module 3 [Name Here](address)
 - Module 4 [Name Here](address)
 - Module 5 [Name Here](address)
