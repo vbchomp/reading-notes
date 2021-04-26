@@ -1,4 +1,4 @@
-# Class 02 - HTML, CSS and JS Some Loops
+# Class 02 - HTML, CSS and some JS Loops
 [<== Main Page](../README.md)
 
 ## *HTML Book* Chapter 2 - Test
@@ -27,13 +27,32 @@
   * Type targets just those elements `h1, h2, h3 {}`  
   * Class targets class attributes with values matching after period `.wicked {}` `p.wicked {}` targets p elements with wicked class attribute
   * ID targets id attributes with values after number sign `#wego {}`
-* Rules cascade, hence ccascade style sheets, so the last rule on the same type element wins
+* Rules cascade, hence cascade style sheets, so the last rule on the same type element wins
   * If there are two selectors on the p element, the last one is the one that gets executed
   * The more specific the selector wins, a header is less specific than third paragraph
 * If using more than one page external CSS is handy to style all similar and reduces chances of making errors on multiple pages
     
 
 ## *JS Book* Chapter 2 - Basic JavaScript Instructions 
+
+* Scripts are instructions, or statements, that computers use to complete tasks
+* Each statement should end with a semicolon
+* Comments explain what code does, allows others to figure out your logic
+  * JS multi-line comments `/* comments go here on more than one line */`
+  * JS single line comments `// Just this line will be commented out `
+* Variables store temporary data
+  * Declared by `var variablename;`
+  * Assigned by `variablename = value;` 
+  * Variables can contain letters, numbers, $ amd _
+  * useCamelCaseToNameVariableWithMoreThanOneWord
+* Data types can be numbers, text or boolean
+* Arrays can create lists of related values
+  * Each item is given a number starting at 0, so 5th array item is actually numbered as `[4]`
+  * `// Example of creating an array`
+  * `var simpsons;`
+  * `simpsons = ['homer', 'marge', 'baart', 'lisa', 'maggie'];
+  * `// Realized misspelled bart. Will update with bart, which is basically reassigning it another value`
+  * `simpsons[2] = 'bart';`
 
 
 ## *JS Book* Chapter 4 - Decisions and Loops
