@@ -6,7 +6,9 @@
 - [Code 201 - Foundations of Software Development](/code201/code201.md)
 - [Code 301 - Coming July 2021](code301/code301.md)
 - [Code 401 - Coming October 2021](/code401/code401.md)
-- Space because I could not figure out how to fix the stuff below the space
+- Spaces because I could not figure out how to fix the stuff below the spaces
+- Spaces because I could not figure out how to fix the stuff below the spaces
+- Spaces because I could not figure out how to fix the stuff below the spaces
 - [Module 1 - Cool Stuff on Markdown and Gowth Mindsets](/module1/module1.md)
 - [Module 2 - Text Editors and Linux commands](/module2/module2.md)
 - [Module 3 - Revisions](/module3/module3.md)
