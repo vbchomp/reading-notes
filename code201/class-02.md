@@ -10,12 +10,12 @@
   * These are empty elements and do not need a closing tag
 * Content Management systems have visual editors that look like word processors and code views
 * Semantic markup provides additional information on page for accessibility
-  * Tags include <strong>, <em>, <blockquote>, <q>, <abbr>, <cite>, <dfn>, <address>, <ins>, <del>, <s>  
+  * Tags include `<strong>, <em>, <blockquote>, <q>, <abbr>, <cite>, <dfn>, <address>, <ins>, <del>, <s>`  
 
 ## *HTML Book* Chapter 10 - Introducing CSS
 
 
-## *JS Book* Chapter 2 Basic JavaScript Instructions 
+## *JS Book* Chapter 2 - Basic JavaScript Instructions 
 
 
 ## *JS Book* Chapter 4 - Decisions and Loops
