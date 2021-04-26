@@ -13,6 +13,7 @@
 * Semantic markup provides additional information on page for accessibility
   * Tags include `<strong>, <em>, <blockquote>, <q>, <abbr>, <cite>, <dfn>, <address>, <ins>, <del>, <s>`  
 
+
 ## *HTML Book* Chapter 10 - Introducing CSS
 
 * CSS creates rules that control how elements look
@@ -50,9 +51,19 @@
   * Each item is given a number starting at 0, so 5th array item is actually numbered as `[4]`
   * `// Example of creating an array`
   * `var simpsons;`
-  * `simpsons = ['homer', 'marge', 'baart', 'lisa', 'maggie'];
+  * `simpsons = ['homer', 'marge', 'baart', 'lisa', 'maggie'];`
   * `// Realized misspelled bart. Will update with bart, which is basically reassigning it another value`
   * `simpsons[2] = 'bart';`
 
 
 ## *JS Book* Chapter 4 - Decisions and Loops
+
+* Comparison operators evaluates two or more values to determine if they are the expected value returns true or false
+  * `== is equal to, != is not equal to, > greater than, < less than, >= greater than or equal to, >= less than or equal to`
+  * `=== strict equal to, !== strict not equal to` comparees value AND data types to see if they are true
+* Logical operators compare results from more than one comparison operator
+  * `&&` Logical AND returns true if both expressions are true `((5 , 2) && (2 >= 3))`
+  * `||` Logical OR returns true if either exp are true `((2 < 5) || (2 < 1))`
+  * `!` Logical NOT returns true if it was false `!(2 < 1)`
+* If statements allow blocks of code to run if statements are true 
+
