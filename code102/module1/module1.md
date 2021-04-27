@@ -1,4 +1,5 @@
 ## Module 1 - Cool Stuff on Markdown and Gowth Mindsets
+
 [<== Main Page](../README.md)
 
 - Learn about a [Growth Mindset here!](/module1/Growth.md)
@@ -6,7 +7,6 @@
 - Learning how to link images (next comes learning how to size them properly! :)
 
   - ![Camping on the coast](campcoast.JPG)Camping on the coast
-  
   
   - ![Neowise Comet](neowise.jpeg)Neowise Comet
 

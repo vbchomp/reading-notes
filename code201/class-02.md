@@ -1,4 +1,5 @@
 # Class 02 - HTML, CSS and some JS Loops
+
 [<== Main Page](../README.md)
 
 ## *HTML Book* Chapter 2 - Test
@@ -12,7 +13,6 @@
 * Content Management systems have visual editors that look like word processors and code views
 * Semantic markup provides additional information on page for accessibility
   * Tags include `<strong>, <em>, <blockquote>, <q>, <abbr>, <cite>, <dfn>, <address>, <ins>, <del>, <s>`  
-
 
 ## *HTML Book* Chapter 10 - Introducing CSS
 
@@ -32,7 +32,6 @@
   * If there are two selectors on the p element, the last one is the one that gets executed
   * The more specific the selector wins, a header is less specific than third paragraph
 * If using more than one page external CSS is handy to style all similar and reduces chances of making errors on multiple pages
-    
 
 ## *JS Book* Chapter 2 - Basic JavaScript Instructions 
 
@@ -55,7 +54,6 @@
   * `// Realized misspelled bart. Will update with bart, which is basically reassigning it another value`
   * `simpsons[2] = 'bart';`
 
-
 ## *JS Book* Chapter 4 - Decisions and Loops
 
 * Comparison operators evaluates two or more values to determine if they are the expected value returns true or false
@@ -68,4 +66,3 @@
 * If statements allow blocks of code to run if statements are true 
 
 ## How To Write a Git Commit Message - Chris Beams
-
