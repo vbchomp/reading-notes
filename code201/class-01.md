@@ -1,4 +1,4 @@
-# Class 01 - Some HTML and a little JS
+# Class 01 - Introductory HTML and JS
 
 [<== Main Page](../README.md)
 

@@ -1,11 +1,12 @@
 # Code 201 - Foundations in Software Development Reading Notes
+
 [<== Main Page](../README.md)
 
 ## Table of Contents
 
-- Class 1 [First Day of Class](class-01.md)
-- Class 2 [Second Day of Class](class-02.md)
-- Module 3 [Name Here](address)
+- Class 1 [Introductory HTML and JS](class-01.md)
+- Class 2 [HTML Text, CSS intro and Basic JS](class-02.md)
+- Class 3 [HTML Lists, Control Flow with JS and the CSS Box Model](class-03.md)
 - Module 4 [Name Here](address)
 - Module 5 [Name Here](address)
 - Module 6 [Name Here](address)

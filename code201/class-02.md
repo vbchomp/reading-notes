@@ -1,4 +1,4 @@
-# Class 02 - HTML, CSS and some JS Loops
+# Class 02 - HTML Text, CSS intro and Basic JS
 
 [<== Main Page](../README.md)
 
