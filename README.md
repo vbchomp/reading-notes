@@ -1,4 +1,4 @@
-# Welcome to the Reading Notes of HB
+# Welcome to the Code Fellows Reading Notes of Heather Bisgaard
 
 *Where the curious come to learn at least one new thing a day*
 
@@ -11,4 +11,4 @@
 
 ### Continue with my Journey into Coding and Software Development below
 
-[Heather B's GitHub](https://github.com/vbchomp)
+[Heather's GitHub](https://github.com/vbchomp)
