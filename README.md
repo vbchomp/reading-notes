@@ -9,6 +9,10 @@
 - [Code 301 - Coming July 2021](code301/code301.md)
 - [Code 401 - Coming October 2021](code401/code401.md)
 
+## References
+
+- [Render Markdown JavaScript](https://github.com/ryanflorence/render-markdown-javascript/blob/master/README.md)
+
 ### Continue with my Journey into Coding and Software Development below
 
 [Heather's GitHub](https://github.com/vbchomp)
