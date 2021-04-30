@@ -17,7 +17,7 @@
   <dt>Your House</dt>
   <dd>The place where you live.</dd>
  </dl>
- ``` 
+ ```
 
 - Nested lists are created by adding indents 
 
@@ -31,9 +31,34 @@
     </ul>
   </li>
   <li>Birds</li>
-</ul>    
+</ul>
+```
 
 ## *HTML Book* Chapter 13 - Boxes
+
+- Boxes are sized to hold it's contents by default. The size can be adjusted by height and width. Can also adjust the elements inside the boxes.
+
+- Minimum and maximum heights and widths can be adjusted to fit in browsers.
+
+- Overflow content can be handled by hiding or scrolling.
+
+- Borders, padding and margins are properties that control how a box looks.
+
+  - Borders separate the edges of each box from other boxes.
+
+  - Margins are outside the edge of the border.
+
+  - Padding if the space between the border and the content inside box.
+
+- Border width properties use px or thin, thick, medium values on top, left, right and bottom
+
+- Border style properties are solid, dotted, dashed, grooved, ridged, inset, outset, hidden/none
+
+- Border colors are just as numberous as the colors for everything else
+
+- Start at pg 314 for rest of notes!s
+
+
 
 ## *JS Book* Chapter 2 - Basic JS Instructions
 
