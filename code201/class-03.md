@@ -8,6 +8,17 @@
 
 ## *JS Book* Chapter 2 - Basic JS Instructions
 
+- Arrays store lists of values
+  
+```render-javascript
+var dogs;
+dogs = ['mutt', 'husky', 'heeler', gsd', 'yorkie'];
+```
+
+- Array index starts at 0, so 5 dog list is array with [4]
+
+  - Re-assign value in spot 5 of array `dogs[4] = 'ankleBiter';`
+
 ## *JS Book* Chapter 4 - Decisions and Loops
 
 - If...Else Statements evaluate a condition
