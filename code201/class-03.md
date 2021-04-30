@@ -56,9 +56,7 @@
 
 - Border colors are just as numberous as the colors for everything else
 
-- Start at pg 314 for rest of notes!s
-
-
+- Start at pg 314 for rest of notes!
 
 ## *JS Book* Chapter 2 - Basic JS Instructions
 
