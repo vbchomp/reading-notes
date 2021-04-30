@@ -4,6 +4,35 @@
 
 ## *HTML Book* Chapter 3 - Lists
 
+- Ordered lists have numbers (can be reversed), unordered lists start with bullet points and definition lists are vocab words and definitions
+
+- Can be styled in css using type attribute
+
+- Definition list created using `<dl>` element
+
+```render-html
+<dl>
+  <dt>My House</dt>
+  <dd>The place where I live.</dd>
+  <dt>Your House</dt>
+  <dd>The place where you live.</dd>
+ </dl>
+ ``` 
+
+- Nested lists are created by adding indents 
+
+```render-html
+<ul>
+  <li>Dogs</li>
+  <li>Cats
+    <ul>
+      <li>Yours</li>
+      <li>Mine</li>
+    </ul>
+  </li>
+  <li>Birds</li>
+</ul>    
+
 ## *HTML Book* Chapter 13 - Boxes
 
 ## *JS Book* Chapter 2 - Basic JS Instructions
