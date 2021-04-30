@@ -54,3 +54,26 @@ switch (level) {
 }
 ```
 
+- JS uses weak typing and converts data types (called type coercion) to complete operations. 
+
+  - Use `=== and !===` (strict equality) rather than `== and !==` and JS will give you less data type errors
+
+- Truthy (commonly 1) and falsy (commonly 0) values are caused by type coercion
+
+  - Falsy values: boolean false, number zero, empty string, NaN, a variable with no value assigned
+
+  - Truthy values: boolean true, numbers other zero, strings, number calculations, true written as string, zero written as string, false written as string 
+
+- Need to get more infor on Short circuit values (JS Book, 169)
+
+- Loops run if a condition returns true, then keeps checking and running until it returns false
+
+  - For  loops run a specific number of times
+  
+  - While loops run while a specific condition is true
+  
+  - Do while loop, like while, but will run at least once, even if condition is false
+
+  - Loop counters `for (var i = 0; i <4; i++) {`
+
+  - document.write(); writes to page
