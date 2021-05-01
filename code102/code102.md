@@ -3,7 +3,7 @@
 
 ## Table of Contents
 
-- [Module 1 - Cool Stuff on Markdown and Gowth Mindsets](code102/module1/module1.md)
+- [Module 1 - Cool Stuff on Markdown and Gowth Mindsets](/module1/module1.md)
 - [Module 2 - Text Editors and Linux commands](/module2/module2.md)
 - [Module 3 - Revisions](/module3/module3.md)
 - [Module 4 - HTML & CSS](/module4/module4.md)
