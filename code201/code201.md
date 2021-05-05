@@ -8,7 +8,7 @@
 - Class 2 [HTML Text, CSS intro and Basic JS](class-02.md)
 - Class 3 [HTML Lists, Control Flow with JS and the CSS Box Model](class-03.md)
 - Class 4 [HTML Links, JS Functions and Intro to CSS Layout](class-04.md)
-- Module 5 [Name Here](address)
+- Module 5 [Images, Color, Text](class-05.md)
 - Module 6 [Name Here](address)
 - Module 7 [Name Here](address)
 - Module 8 [Name Here](address)
