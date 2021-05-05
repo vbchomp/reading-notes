@@ -78,3 +78,11 @@ h1 {
   text-transform: uppercase;
   }
 ```
+
+## JPEG vs PNG vs GIF Article
+
+[JPEG vs PNG vs GIF](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d)
+
+- JPEGs for a lot of color
+- PNGs for less colors or images with contrasts
+- GIFs for animations
