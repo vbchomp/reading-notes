@@ -15,10 +15,14 @@
 
 ## *HTML Book* Chapter 15 - Layout
 
+- Saved for future notes from Chapter 15.
+
+
 ## *JS Book* Chapter 3 - Functions, Methods and Objects
 
 - Functions group statements to perform a task
   - Can re-use the function  rather than repeat the statements
+
 - Declare a function
 
 ```render-javascript
