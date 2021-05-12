@@ -51,3 +51,11 @@ var hotel = {
 `var roomsFree = hotel['checkAvailability']();`
 
 ## *JS Book* Chapter 5 - Document Object Model
+
+- Not HTML or JS, own set of rules, implemented by browsers
+- DOM specifies how browsers make a model of HTML page and how the JS will access and modify the page
+  - Uses DOM Tree for structure, an object model, each object represents parts of the page
+  - Defines methods and properties to access and update objects in model which updates what is seen in browser
+  - Sometimes called an API (Application Programming Interface) which lets programs talk to each other
+
+- DOM Tree model of web page
