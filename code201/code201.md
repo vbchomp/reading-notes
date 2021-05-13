@@ -10,7 +10,7 @@
 - Class 4 [HTML Links, JS Functions and Intro to CSS Layout](class-04.md)
 - Class 5 [Images, Color, Text](class-05.md)
 - Class 6 [JS Object Literals; The DOM](class-06.md)
-- Module 7 [Name Here](address)
+- Class 7 [Object-Oriented Progamming and HTML Tables](class-07.md)
 - Module 8 [Name Here](address)
 - Module 9 [Name Here](address)
 - Module 10 [Name Here](address)
