@@ -4,11 +4,11 @@
 
 ## *HTML Book* Chapter 15
 
-- Block level elements start on new lines <h1> <p> <ul> <li>
+- Block level elements start on new lines `<h1> <p> <ul> <li>`
 
-- Inline elements flow in between surrounding text <img> <b> <i>
+- Inline elements flow in between surrounding text `<img> <b> <i>`
 
-- Parent element or containing element is used to group together inside a block level element like a <div>
+- Parent element or containing element is used to group together inside a block level element like a `<div>`
 
 - Element positions
   - Normal
