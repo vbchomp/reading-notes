@@ -11,7 +11,7 @@
 - Class 5 [Images, Color, Text](class-05.md)
 - Class 6 [JS Object Literals; The DOM](class-06.md)
 - Class 7 [Object-Oriented Progamming and HTML Tables](class-07.md)
-- Module 8 [Name Here](address)
+- Class 8 [CSS Layout](class-08.md)
 - Module 9 [Name Here](address)
 - Module 10 [Name Here](address)
 - Module 11 [Name Here](address)
