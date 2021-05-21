@@ -12,7 +12,7 @@
 - Class 6 [JS Object Literals; The DOM](class-06.md)
 - Class 7 [Object-Oriented Progamming and HTML Tables](class-07.md)
 - Class 8 [CSS Layout](class-08.md)
-- Module 9 [Name Here](address)
+- Class 9 [Form and Events](class-09.md)
 - Module 10 [Name Here](address)
 - Module 11 [Name Here](address)
 - Module 12 [Name Here](address)
