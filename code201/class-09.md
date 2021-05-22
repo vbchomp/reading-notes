@@ -155,3 +155,41 @@
 </body>
 </html>
 ```
+
+## *JS Book* Chapter 6
+
+- Event Handling
+  - Event fired or Raised
+  - Code triggered
+  - Event Types; click, submit, onChange, hover, etc
+  - Event Listener code that is going to be triggered when an event is fired
+  - Bind or tether to an Event Listener to the event
+  - Event Handler code that runs in response to the event
+
+- Old way - DO NOT RUN THIS `<article onClick="handleClick">`
+- Another old way
+
+```render-javascript
+element.onEvent=functionName; button(document.getElementbyId('button')).onSubmit=handleEvent
+```
+
+- DOM level 2 Event Handlers - Our Way to do things
+
+```render-javascript
+element.addEventListener('event',functionName);
+<!-- just space -->
+<!-- example with 3 boxes to click -->
+myContainer.addEventListener('click',handleClick);
+```
+
+- welcome to ASYNCHRONOUS code
+asynchronous code runs out of order, needs user or event input before running
+- Event bubbling - enables us 'listen' to the larger element and 'hear' when the smaller pieces are clicked. Rely on OFTEN.
+- Event capturing - no example given, just useful sometimes
+- Callback function is passed as an argument to another function/method
+  - the function in the handleClick event above in DOM 2 is a call back
+
+- Step 1 foothold into the DOM
+- Step 2 add event listener typically placed at the bottom of all function/event declarations(we pass in two parameters-1. event as a string, 2. callback function)
+- Step 3 define the event handler function
+ 
