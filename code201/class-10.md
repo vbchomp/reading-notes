@@ -22,13 +22,13 @@
   - Type is value is unexpected data type.
   - Range is where number is outside of range.
   - URI is incorrect use of URI functions and special characters not escaped.
-  - Eval is incorrect us of eval functions.
+  - Eval is incorrect use of eval functions.
   - NaN is not an error it happens when trying to perform math on strings.
 
 - You can either debug script or handle errors gracefully
 - Debugging, where is it?, what is it?
   - Console methods, console.info() general info, console.warn() warnings, console.error() used to hold errors.
-  - Console.table(tableName); 
+  - Console.table(tableName);
   - Breakpoints pauses script to check values stroed in variables at that time.
   - Then you can step through the code breakpoint to breakpoint.
 - Handling errors, try, catch. finally
@@ -36,7 +36,7 @@
 ```render-javascript
 try {
   // try to execute this code
-} catch (execption) {
+} catch (exception) {
   // If there is an exception, run this code
 } finally {
   // This always gets executed
