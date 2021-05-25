@@ -192,4 +192,3 @@ asynchronous code runs out of order, needs user or event input before running
 - Step 1 foothold into the DOM
 - Step 2 add event listener typically placed at the bottom of all function/event declarations(we pass in two parameters-1. event as a string, 2. callback function)
 - Step 3 define the event handler function
- 

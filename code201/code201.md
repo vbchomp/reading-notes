@@ -13,7 +13,7 @@
 - Class 7 [Object-Oriented Progamming and HTML Tables](class-07.md)
 - Class 8 [CSS Layout](class-08.md)
 - Class 9 [Form and Events](class-09.md)
-- Module 10 [Name Here](address)
+- Class 10 [JS Debugging](class-10.md)
 - Module 11 [Name Here](address)
 - Module 12 [Name Here](address)
 - Module 13 [Name Here](address)
