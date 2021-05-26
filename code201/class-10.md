@@ -44,3 +44,25 @@ try {
 ```
 
 - Throwing errors generate errors instead of waiting for the interpreter to.
+
+- To prevent bugs altogether
+  - be willing to make mistakes
+  - proof of life, often, visual testing
+  - have a working linter
+  - rely on our tools
+  - console log things, or other console methods
+  - test in console for proof of life
+  - break points - to analyze your code
+  - error handling
+
+- How do we debug? Tips and Tricks!
+  - Identify problem, where is problem
+  - 2nd opinion, set of eyes
+  - run piece by piece even is you have comment everything out and move forward step by step
+  - change pperspective, relax, take breaks
+  - trial and error
+  - look in console, line and space where error occurs
+  - google/stack overflow or mdn docs for js, maybe w3schools for css
+  - going through your process, call stack, confirm things happen in correct order
+  - save - ACP OFTEN - working sources of truth
+  - RTFM
