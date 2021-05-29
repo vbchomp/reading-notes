@@ -14,7 +14,7 @@
 - Class 8 [CSS Layout](class-08.md)
 - Class 9 [Form and Events](class-09.md)
 - Class 10 [JS Debugging](class-10.md)
-- Module 11 [Name Here](address)
+- Class 11 [Audio, Video, Images](class-11.md)
 - Module 12 [Name Here](address)
 - Module 13 [Name Here](address)
 - Module 14 [Name Here](address)
