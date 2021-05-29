@@ -1,4 +1,4 @@
-# Class 10 - JS Debugging
+# Class 11 - Audio, Video, Images
 
 [<== Main Page](../README.md)
 
