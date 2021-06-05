@@ -16,6 +16,6 @@
 - Class 10 [JS Debugging](class-10.md)
 - Class 11 [Audio, Video, Images](class-11.md)
 - Class 12 [Chart.js, Canvas](class-12.md)
-- Module 13 [Name Here](address)
+- Class 13 [Local Storage](class-13.md)
 - Module 14 [Name Here](address)
 - Module 15 [Name Here](address)
