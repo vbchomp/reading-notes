@@ -53,4 +53,30 @@ if (Modernizr.localstorage) {
 }
 ```
 
-- 
+## Class Notes
+
+- Class 15 has project rubric
+  - 3 pages - about me with no js, just bios and github/linkedIn
+  - Landing page, index.html
+  - Constructor, user input, event listener, use the user input,
+
+- Local Storage is saved on the client machine, typically C drive
+  - stringify (json aka JS Object Notatation) data to get it ready to store to local
+  - parse stringified data when it comes out of local storage
+  - In dev tools, let students = 42
+  - `localStorage.setItem('name', value);`
+  - `localStorage.getItem('name');`
+  
+- `let stringifiedStudent = JSON.stringify(student);`
+  - `localStorage.setItem('person', student);`
+  - `let retrievedStudent = localStorage.getitem('person');`
+  - `let parsedRetrievedStudent = JSON.parse(retrievedStudent);`
+
+- Goats
+  - after clicks allowed and render chart, then stringify and save to local
+  - to get storage 
+  let retireved =  getItem
+  if retrievedgoats exists
+  run parse
+  else instantiate
+  - this prevents duplicates
