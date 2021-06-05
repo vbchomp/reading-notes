@@ -15,7 +15,7 @@
 - Class 9 [Form and Events](class-09.md)
 - Class 10 [JS Debugging](class-10.md)
 - Class 11 [Audio, Video, Images](class-11.md)
-- Module 12 [Name Here](address)
+- Class 12 [Chart.js, Canvas](class-12.md)
 - Module 13 [Name Here](address)
 - Module 14 [Name Here](address)
 - Module 15 [Name Here](address)
