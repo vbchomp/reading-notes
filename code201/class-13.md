@@ -23,12 +23,12 @@
 
 - Dunh, dunh, dunh...HTML5 Storage!
   - Web Storage, Local Storage or DOM Storage.
-  - Able to store named key/value pairs locally, persitent after page navigation, closing browser tab, exiting browser, etc. 
+  - Able to store named key/value pairs locally, persitent after page navigation, closing browser tab, exiting browser, etc.
   - Not transmitted across server like cookies.
   - Available even when third-party plug-ins are not.
   - IE8+, Firefox 3.5+, Safari 4.0+, Chrome 4.0+, Opera 10.5+, iPhone 2.0+ and Android 2.0+.
 
-- Access is through JS code using the localStorage object in the global window object. 
+- Access is through JS code using the localStorage object in the global window object.
 
 - Checks whether browser supports it.
 
@@ -74,7 +74,7 @@ if (Modernizr.localstorage) {
 
 - Goats
   - after clicks allowed and render chart, then stringify and save to local
-  - to get storage 
+  - to get storage
   let retireved =  getItem
   if retrievedgoats exists
   run parse
