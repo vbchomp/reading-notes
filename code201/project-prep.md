@@ -2,9 +2,9 @@
 
 ## Globonauts
 
-Taylor White, Software Engineer
-Phillip Murphy, Site Reliability Engineer
-Heather Bisgaard, Software Engineer
+- Taylor White, Software Engineer
+- Phillip Murphy, Site Reliability Engineer
+- Heather Bisgaard, Software Engineer
 
 ## Cooperation Plan
 
