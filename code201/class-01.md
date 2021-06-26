@@ -31,7 +31,7 @@
 * :camel: more emoji practice
 * HTML5 introduced a new set of elements to minimize the amount of redundant words? in code
 * The elements decribe the content of the item instead of the element name and attribute
-  * article element could stand alone 
+  * article element could stand alone
   * aside in article is like a quote pertaining to article
   * aside outside article then it relates to whole page
   * sections each have their own headings, may contain more than one article with common theme
