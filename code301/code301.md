@@ -5,4 +5,4 @@
 ## Table of Contents
 
 - Prework [Introduction to React and Components](prework.md)
-- Class 1 [Something with React or Arrow Functions](class-01.md)
+- Class 2 [State and Props](class-02.md)
