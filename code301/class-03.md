@@ -1,6 +1,7 @@
 # Class 03 - Passing Functions as Props
 
 [<== Main Page](../README.md)
+[<== Code 301](../code301/code301.md)
 
 ## [React Docs - Lists and keys](https://reactjs.org/docs/lists-and-keys.html)
 

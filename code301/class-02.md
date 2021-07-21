@@ -1,6 +1,7 @@
 # Class 02 - State and Props
 
 [<== Main Page](../README.md)
+[<== Code 301](../code301/code301.md)
 
 ## [React Lifestyle](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
 
