@@ -26,3 +26,5 @@
   Identify components that render based on that state. Find common owners. Either common owner or component higner in hierarchy should own. If cannot find a place where it makes sense to live, create a new component solely for holding state and add to hierarchy above the common owner component.
 
 ## Things I Want To Know More About
+
+- 
