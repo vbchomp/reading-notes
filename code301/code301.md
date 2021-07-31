@@ -10,3 +10,4 @@
 - Class 4 [React and Forms](class-04.md)
 - Class 5 [Putting it all together](class-05.md)
 - Class 6 [NODE.JS](class-06.md)
+- Class 7 [REST](class-07.md)
