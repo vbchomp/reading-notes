@@ -6,7 +6,7 @@
 ## [What Is Node and When Should I Use It?](https://www.sitepoint.com/an-introduction-to-node-js/)
 
 - What is node.js?
-  A JavaScript runtime
+  A JavaScript runtime 
 
 - In your own words, what is Chrome’s V8 JavaScript Engine?
   It compiles into the language that your computer can read.
@@ -48,3 +48,25 @@
 - [Making asynchronous programming easier with async and await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)
 
 ## Things I Want To Know More About About
+
+- Web Request RC
+
+  Front End Client side sends request to Pokemon server (method get)
+  Back End Receives response (status with body) from axios
+  Second request sent to locationIQ API (method get)
+  Receives response (status with body)
+
+- Use the docs on the API site for information
+
+- Writing asynchronous code chosing to use axios and async / await
+  import axios from 'axios';
+
+  getPokemon = async () => {
+    let pokemonResults = await axios.get('https://pokeapi.co/api/v2/pokemon');
+    //wittle in and prove that you can get the data you want with the console logs, proof of llife
+    console.log(pokemonResults.data.results);
+    this.setState({
+      pokemons: pokemonResults.data.results,
+      displayPokemon: true,
+    })
+  }
