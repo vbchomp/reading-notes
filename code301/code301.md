@@ -14,3 +14,4 @@
 - Class 8 [APIs](class-08.md)
 - Class 9 [Functional Programming](class-09.md)
 - Class 10 [In Memory Storage](class-10.md)
+- Class 11 [Authentication](class-11.md)
