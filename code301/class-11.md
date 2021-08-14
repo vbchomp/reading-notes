@@ -58,3 +58,19 @@
 - What exactly does axios do? I know it is middleware. Hexx called it the carrier pigeon that carries the data back. Does it actually store data?
 
 - For starter code, just run, then start fixing the errors one by one.
+
+- Learning how to change git remote origin
+
+  git status
+
+  git add .
+  git commit -m " "
+  git push origin branchname
+
+<!-- copied the git ssh clone from github -->
+  git remote set-url origin <git repo> 
+
+<!-- gives status -->
+  git remote -v
+
+  git push origin main
