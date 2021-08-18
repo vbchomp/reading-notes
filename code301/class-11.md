@@ -74,3 +74,16 @@
   git remote -v
 
   git push origin main
+
+---
+
+- Class 11 Notes on Debugging
+
+  axios needs to be installed using npm i
+  need to set up PORT on .env, make sure to put in .gitignore
+
+  run code and start with first error and fix it. Then get next error and fix it. See first part video from 8/14/21 to see debugging.
+
+- Lab 11
+
+  Auth0 documentation is amazing. This app is single page React app.
