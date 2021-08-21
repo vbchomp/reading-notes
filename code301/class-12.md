@@ -135,3 +135,23 @@ async function clear() {
     console.log('Error in clearing database');
   }
 }
+
+// componentDidMount() demo
+http://reactjs.org/docs/react-component.html#componentdidmount
+
+
+
+
+
+mongo db commands
+show dbs
+
+use <database>
+show collections - name of schema
+db.books.find
+db.books.find().pretty()
+^c or ^d exits mongo db
+
+curl <server address>
+curl http://localhost:3001/books
+url http://localhost:3001/seed

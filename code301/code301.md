@@ -16,3 +16,4 @@
 - Class 10 [In Memory Storage](class-10.md)
 - Class 11 [Authentication](class-11.md)
 - Class 12 [Mongo and Mongoose](class-12.md)
+- Class 13 [CRUD](class-13.md)
