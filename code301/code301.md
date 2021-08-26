@@ -17,3 +17,4 @@
 - Class 11 [Authentication](class-11.md)
 - Class 12 [Mongo and Mongoose](class-12.md)
 - Class 13 [CRUD](class-13.md)
+- Class 14 [Diversity & Inclusion](class-14.md)

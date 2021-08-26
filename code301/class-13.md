@@ -48,3 +48,7 @@
 - What is the difference between a status 200 and a status 201? 201 has a location header
 
 ## Things I Want To Know More About 
+
+- In class review of my code to go over the Auth0 verification of the user email
+
+  
