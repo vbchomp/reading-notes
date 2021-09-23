@@ -1,2 +1,7 @@
-# Coming to a repository near you in October 2021!
+# Code 401 - Advanced Software Development Reading Notes
 [<== Main Page](../README.md)
+
+## Table of Contents
+
+- Prework [401 Prework](prework.md)
+- Class 1 [Title](class-01.md)
