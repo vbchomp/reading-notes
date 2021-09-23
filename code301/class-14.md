@@ -30,3 +30,10 @@
 ## Things I Want To Know More About
 
 - Why is it that guys are so afraid of strong, smart women? Corporate America is afraid of strong, smart non-white men and women.
+
+
+
+
+
+I am a Software Engineer, I am also a Database Administrator and an Army veteran who started off life as an Army Brat and called wherever we currently lived 'home'. Moving to different countries for the military and having the opportunity to travel to even more created a love for adventure and travel that has continued to this day. My latest flight leaves in about 4 hours!  
+Transitioning into software development/engineering has shown me the developing technology of making internet access available to all corners of the world. I want to be part of creating that. This would give access to education, healthcare, and maybe even a friendly face on video chat to so many more people. It might even be an exciting way to enable others to start traveling, too.  
