@@ -7,4 +7,5 @@
 - Class 1 [Node Ecosystem, TDD, CI/CD](class-01.md)
 - Class 2 [Express](class-02.md)
 - CLass 3 [Express REST API](class-03.md)
-- CLass 4 [](class-04.md)
+- CLass 4 [Data Modeling](class-04.md)
+- Class 5 [Linked Lists](class-05.md)
