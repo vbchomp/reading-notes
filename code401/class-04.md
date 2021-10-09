@@ -73,3 +73,251 @@
 ## Things I Want To Know More About
 
 - Class notes
+
+  - create a class collection and don't create CRUD in server.js anymore
+
+- create anew repo from vscode
+
+  - git checkout main
+  git pull
+
+  git init
+  touch index.js .env
+  mkdir __test__ src config 
+  cd src ; error-handlers models routes middleware 
+  cd error-handlers ; 404.js 500.js ; cd ..
+  ls -l
+  touch server.js
+
+  cd models
+  touch cat.schema.js dog.schema.js
+
+  'use strict'
+
+  const dogs = (sequelize, DataTypes) => sequelize.define('Dogs', {
+      name: {
+          type: DataTypes.STRING,
+          allowNull: false,
+      },
+      hasAllLimbs: {
+          type: DataTypes.BOOLEAN,
+          allowNull: false,
+      },
+      color: {
+          type: DataTypes.STRING,
+      }
+  });
+
+  module.export = dogs;
+
+  const cats = (sequelize, DataTypes) => sequelize.define('Cats', {
+      age: {
+          type: DataTypes.INTEGER,
+          allowNull: false,
+      },
+      name: {
+          type: DataTypes.STRING,
+          allowNull: false,
+      },
+      color: {
+          type: DataTypes.STRING,
+      }
+  });
+
+  module.export = cats;
+
+  // models/index.js
+  require('dotenv').config();
+  const POSTGRES_URI = process.env.DATABASE_URL;
+  let sequelize = process.env.NODE_ENV === 'test' ? new Sequelize('sqlite::memory:') : new Sequelize(POSTGRES_URI);
+  const { Sequelize, DataTypes } = require('sequelize');
+
+  // import schemas & collection
+  const Collection = require('./lib/collection.js);
+  const catSchema = require('./cat.schema.js');
+  const dogSchema = require('./dog.schema.js');
+
+  // turn schema into sequelize model
+  // instantiate sequelize
+  const sequelize = new Schema(DATABASE_URL, sequlizeOptions);
+  const catModel = catSchema(sequelize, DataTypes);
+  const dogModel = dogSchema(sequelize, DataTypes);
+  
+  // turns models into collections
+  const catCollection = new Collection(catModel);
+  const dogCollection = new Collection(dogModel);
+
+  // export
+  module.exports = {
+      db: sequleize,
+      // once create collection.js change to catCollection, dogCollection
+      Cat: catModel,
+      Dog: dogModel,
+};
+
+//routes
+//cat.js
+'use strict'
+
+const express = require('express');
+
+const { Cat } = require('../models/index.js);
+const { Dog } = require('../models/index.js);
+
+const router = express.Router();
+
+// REST route declarations
+router.post('/cat', createCat);
+router.get('/cat', getACat);
+router.get('/cat/:id', getOneCat);
+router.put('/cat/:id', updateCat);
+router.delete('/cat/:id', deleteCat);
+
+// RESTful Route Handlers
+// update with cat stuff
+
+async function getCat (req,res) {
+    let cats = await catCollection.read();
+    res.status(200).json(cats);
+}
+
+async function getOneClothes (req,res) {
+    const id = parseInt(req.params.id);
+    let theClothes = await Clothes.findOne({ where: { id } });
+    res.status(200).json(theClothes);
+}
+
+async function createClothes (req,res) {
+    let obj = req.body;
+    let newClothes = await Clothes.create(obj)
+    res.status(200).json(newClothes);
+}
+
+async function updateClothes (req,res) {
+    const id = parseInt(req.params.id);
+    const obj = req.body;
+    let clothes = await Clothes.findOne({ where: { id } });
+    let updatedClothes = await clothes.update(obj);
+    res.status(200).json(updatedClothes);
+}
+
+async function deleteClothes (req,res) {
+    const id = parseInt(req.params.id);
+    let deletedClothes = await Clothes.destroy({ where: { id } });
+    res.status(200).json(deletedClothes);
+}
+
+module.exports = router;
+
+
+// do dog REST
+
+// server.js
+const express = require('express');
+const morgan = require('morgan');
+
+const app = express();
+
+// Error handlers, Routes, and our own modules
+const notFoundHandler = require('./error_handlers/404.js');
+const errorHandler = require('./error_handlers/500.js');
+
+// const catRoutes = require('./routes/cat.js');
+const dogRoutes = require('./routes/dog.js');
+
+// Global Middleware
+app.use(morgan('dev')); // This is a 3rd party logger
+app.use(express.json());
+
+// Use our routes
+// app.use(catRoutes);
+app.use(dogRoutes);
+
+// Error handlers -- need to be define last!!
+app.use('*', notFoundHandler);
+app.use(errorHandler);
+
+// Export an object with the express app and start method
+module.exports = {
+    server: app,
+    start: port => {
+        if (!port) { throw new Error('Missing Port'); }
+        app.listen(port, () => console.log(`Listening on port ${port}`));
+    },
+};
+
+make .env with port and db_url
+
+// make a collection class - CRUD handler
+mkdir either util or lib
+touch collection.js
+
+'use strict'
+
+/** Collection interface, this provides an abstraction for behaviors we expect an APPI data would want to peforem, regardless
+**/
+
+class Collection {
+    constructor(model) {
+        this.model = model;
+    }
+    async create(json) {
+        try {
+            let record = await this.model.create(json);
+
+            return record;
+        } catch (e) {
+            console.error('Error creating data for model : ' + this.model.name);
+            return e;
+        }
+    }
+
+// checking for an id. if id then get 1, if no id, then get all.
+    async read(id) {
+        let record = null;
+        if (id) {
+            options['where'] = { id };
+            records = await this.model.findOne(options);
+        } else {
+            records = await this.model.findAll(options);
+        }
+        return record;
+    } catch (e) {
+        console.error('Error reading data for model : ' + this.model.name);
+        return e;
+    }
+
+// 
+    async update(id, json) {
+        try {
+            // throw new Error like next()
+            if (!id) throw new Error('No record id prvided : ${this.model.name} ` );
+            let record = await this.model.findOne({ where: { id } });
+            let updatedRecord = await record.update(json);
+            return updatedRecord;
+        } catch (e) {
+            console.error('Error updating mode : ' this.model.name);
+            return e;
+        }
+
+    }
+
+    async delete(id) {
+        try {
+            if (!id) throw new Error('No record id prvided : ${this.model.name} ` );
+
+            let deletedRecord = await this.model.destroy({ where: { id } });
+            return deletedRecord;  
+        } catch (e) {
+            console.error('Error deleting data for model : ' + this model.name);
+            return e;
+        }
+    }
+}
+
+module.exports = Collection;
+
+lost track of notes around 8:48 pm. or 2 hrs 18 minutes ish on video. 
+
+
+## Thursday 10/7
