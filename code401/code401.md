@@ -10,3 +10,4 @@
 - CLass 4 [Data Modeling](class-04.md)
 - Class 5 [Linked Lists](class-05.md)
 - Class 6 [Authentication](class-06.md)
+- Class 7 [Authoritization](class-07.md)
