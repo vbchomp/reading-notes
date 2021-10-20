@@ -11,3 +11,4 @@
 - Class 5 [Linked Lists](class-05.md)
 - Class 6 [Authentication](class-06.md)
 - Class 7 [Authoritization](class-07.md)
+- Class 8 [Access Control](class-08.md)
