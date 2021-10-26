@@ -12,3 +12,4 @@
 - Class 6 [Authentication](class-06.md)
 - Class 7 [Authoritization](class-07.md)
 - Class 8 [Access Control](class-08.md)
+- Class 9 [Authorization/Authentication](class-09.md)
