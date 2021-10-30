@@ -1,33 +1,17 @@
-# Class 11 - Event Driven Applications
+# Class 12 - Stacks and Queues
 
 [<== Main Page](../README.md)
 [<== Code 401](../code401/code401.md)
 
 ## Readings
 
-- Why is access control important? It follows the least-privilege principle. This is a security principle that says a person can only access the lowest access that they need to do their job. They do not need to have root level privileges to create a table in a database. However, someone might become a victim of coercion or become an inside threat if given too much access.
-
-- Describe an application that would need access control. A database that controls personnel and pay information.
-
-- What is a role used for? To differentiate at what levels users can view and manipulate data in systems.
-
-- Why is role based access control more scalable than discretionary or mandatory access control? Roles are centrally managed and can be used in security groups, where DAC is set on objects like files and MAC is normally set by the organization and you normally have no control over who has access. RBAC can be scaled up or down based on the groups. [Role-Based Access Control](https://www.sciencedirect.com/topics/computer-science/role-based-access-control)
+[Stacks and Queues](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-10/resources/stacks_and_queues.html)
 
 ## Additional Resources
-
-- [Event-Driven Programming in Node.js](https://www.digitalocean.com/community/tutorials/nodejs-event-driven-programming)
-
-- [Node.js v17.0.1 documentation](https://nodejs.org/api/events.html)
 
 ## Videos
 
 ## Vocab
-
-- Authorization allows you access to parts of a system based on what job or role you have been assigned.
-
-- Role Based Access Control assigns your access based on what role you are assigned in the company to prevent role over-reach. [Role-based access control](https://en.wikipedia.org/wiki/Role-based_access_control)
-
-- Capabilities are the assignments that users can do based on the roles or jobs they are assigned, like create a table or delete a user. [Capability-based security](https://en.wikipedia.org/wiki/Capability-based_security)
 
 ## Bookmark/Skim
 
@@ -40,3 +24,103 @@
 - curried functions
 
 - Class notes
+
+- Stacks
+- FILO and LIFO
+
+- Call Stack: Learned in 201
+  - Start() is the FILO, then once all the functions/methods finish, start pops off
+  - Greeting() then finishes and pops off
+  - form() then finishes and pops off stack
+  - Goodbye() finishes then pops
+
+- Push 
+- Big O(1)
+  - Will always take this long to add a node
+
+- TOP Method
+  - Where is the TOP?
+  - Need to have a node that you are adding.
+  - Change newTop = old to newTop = new
+
+- Pop
+- Big O(1)
+  - Will always take this long to take off a node
+
+- TOP Method
+  - Assign Temp to TOP node.
+  - Move TOP to next lowest node.
+  - Pop the temp node
+  - Clear the next from temp node. So temp.next = '';
+
+- Peek
+- Big O(1)
+
+- TOP Method
+  - Check if TOP is empty
+  - If not empty, return TOP.value.
+
+- Queues
+- FIFO and LILO
+  - Front has the next value of the value behind node
+  - Rear has the null value
+
+- Enqueue like Push
+  - Big O(1)
+  - Insert new node at end of queue.
+  - Set next of the current rear to node behind last node. 
+  - Set next of new rear to null after inserting new node.
+
+- Dequeue like Pop
+  - Big O(1)
+  - Check next isEmpty
+  - Create temp, assign front to front node
+  - Assign old front to second in line
+  - Taking off one node at front of queue.
+  - Clear temp next, temp.next = '';
+
+- Peek
+  - Big O(1)
+  - Check if queue isEmpty
+  - if not, return front.value
+
+
+stack.js
+'use strict'
+
+class Stack {
+
+    constructor() {
+        this.storage = new Array(); // can't use this .storage
+        this.top = null;
+    }
+
+    push(value) {
+        // not using built in methods
+        this.storage.unshift(value);  // can't use this
+        this.top = value;
+    }
+
+    pop() {
+        // temp var to reassign top
+        // reassign temp next to empty
+        // return top
+        let temp = this.storage.shift(); // can't use this
+        this.top = this.storage[0]  // can't use this
+    }
+
+    peek() {
+        //check if empty
+        if (this.isEmpty) {
+            return this.top;
+
+        }
+    }
+
+    isEmpty() {}
+
+}
+
+module.exports = Stack;
+
+
