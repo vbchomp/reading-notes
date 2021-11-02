@@ -1,4 +1,4 @@
-# Class 12 - Stacks and Queues
+# Class 12a - Stacks and Queues
 
 [<== Main Page](../README.md)
 [<== Code 401](../code401/code401.md)

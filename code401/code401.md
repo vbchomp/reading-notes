@@ -15,4 +15,5 @@
 - Class 9 [Authorization/Authentication](class-09.md)
 - Class 10 [Skipped](class-10.md)
 - Class 11 [Event Driven Applications](class-11.md)
-- Class 12 [Stacks and Queues](class-12.md)
+- Class 12a [Stacks and Queues](class-12a.md)
+- Class 12b [Socket.io](class-12b.md)
