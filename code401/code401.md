@@ -17,3 +17,4 @@
 - Class 11 [Event Driven Applications](class-11.md)
 - Class 12a [Stacks and Queues](class-12a.md)
 - Class 12b [Socket.io](class-12b.md)
+- Class 13 [Message Queues](class-13.md)
