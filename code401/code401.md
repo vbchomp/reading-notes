@@ -18,3 +18,6 @@
 - Class 12a [Stacks and Queues](class-12a.md)
 - Class 12b [Socket.io](class-12b.md)
 - Class 13 [Message Queues](class-13.md)
+- Class 14 [](class-14.md)
+- Class 15 [](class-15.md)
+- Class 16 [](class-16.md)
