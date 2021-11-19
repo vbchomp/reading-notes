@@ -20,4 +20,5 @@
 - Class 13 [Message Queues](class-13.md)
 - Class 14 [Event Driven Architecture](class-14.md)
 - Class 15 [Career Coaching](class-15.md)
-- Class 16 [](class-16.md)
+- Class 16 [AWS](class-16.md)
+- Class 17 [S3 and Lambda](class-17.md)
