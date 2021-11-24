@@ -22,3 +22,4 @@
 - Class 15 [Career Coaching](class-15.md)
 - Class 16 [AWS](class-16.md)
 - Class 17 [S3 and Lambda](class-17.md)
+- Class 18 [AWS: API, Dynamo and Lambda](class-18.md)
