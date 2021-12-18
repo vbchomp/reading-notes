@@ -24,3 +24,5 @@
 - Class 17 [S3 and Lambda](class-17.md)
 - Class 18 [AWS: API, Dynamo and Lambda](class-18.md)
 - Class 19 [AWS: Events](class-19.md)
+- Projects and Midterm
+- Class 26 [Component Based UI](class-26.md)
