@@ -26,3 +26,4 @@
 - Class 19 [AWS: Events](class-19.md)
 - Projects and Midterm
 - Class 26 [Component Based UI](class-26.md)
+- Class 27 [useState() Hook](class-27.md)
