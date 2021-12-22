@@ -48,3 +48,9 @@
 ## Things I Want To Know More About
 
 - Class notes
+
+- React is one of many, many frameworks out there that act as compilers.
+
+- Today talking about - SASS, JSX, State, build a counter
+
+- JQuery and React are libraries, Angular and Vue are frameworks.
