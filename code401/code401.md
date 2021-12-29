@@ -27,3 +27,4 @@
 - Projects and Midterm
 - Class 26 [Component Based UI](class-26.md)
 - Class 27 [useState() Hook](class-27.md)
+- Class 28 [Component Lifecycle / useEffect()](class-28.md)
