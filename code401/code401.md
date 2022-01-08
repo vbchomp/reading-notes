@@ -29,3 +29,4 @@
 - Class 27 [useState() Hook](class-27.md)
 - Class 28 [Component Lifecycle / useEffect()](class-28.md)
 - Class 29 [Advanced State with Reducers](class-29.md)
+- Class 30 [Hash Tables](class-30.md)
