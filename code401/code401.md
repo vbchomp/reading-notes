@@ -30,3 +30,4 @@
 - Class 28 [Component Lifecycle / useEffect()](class-28.md)
 - Class 29 [Advanced State with Reducers](class-29.md)
 - Class 30 [Hash Tables](class-30.md)
+- Class 31 [Context API](class-31.md)
