@@ -28,3 +28,20 @@
 ## Things I Want To Know More About
 
 - Class notes
+
+- Behavioral Interviews
+  
+  - Go To Market Strategy utilizing inside and outside resources
+  - The best prediction of the future is past behavior.
+  - Tell me about a time when ....
+  - How do you unlock your what do you bring to the company? What's your superpower?
+    - Be prepared, 
+    - tell me about yourself, strengths/weaknesses, how you fit in at the company
+    - tell me about a time when ...
+      - you went above and beyond.
+      - you disagreed with manager
+      - you had a chance to take a lead
+      - had to work with someone difficult.
+      - you experience failure or made a mistake
+    - why are you here?
+    - 
