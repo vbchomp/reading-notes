@@ -31,3 +31,4 @@
 - Class 29 [Advanced State with Reducers](class-29.md)
 - Class 30 [Hash Tables](class-30.md)
 - Class 31 [Context API](class-31.md)
+- Class 32 [Context API - Behaviors](class-32.md)
