@@ -32,3 +32,4 @@
 - Class 30 [Hash Tables](class-30.md)
 - Class 31 [Context API](class-31.md)
 - Class 32 [Context API - Behaviors](class-32.md)
+- Class 33 [Login and Auth](class-33.md)
