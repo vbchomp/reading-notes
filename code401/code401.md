@@ -34,4 +34,5 @@
 - Class 32 [Context API - Behaviors](class-32.md)
 - Class 33 [Login and Auth](class-33.md)
 - Class 34 [API Integration](class-34.md)
+- Class 35 [Graphs](class-35.md)
 - Class 36 [Application State with Redux](class-36.md)
