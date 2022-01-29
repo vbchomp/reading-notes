@@ -1,4 +1,4 @@
-# Class 36 - Application State with Redux
+# Class 35 - Graphs
 
 [<== Main Page](../README.md)
 [<== Code 401](../code401/code401.md)
