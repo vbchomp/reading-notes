@@ -36,3 +36,4 @@
 - Class 34 [API Integration](class-34.md)
 - Class 35 [Graphs](class-35.md)
 - Class 36 [Application State with Redux](class-36.md)
+- Class 37 [Redux - Combined Reducers](class-37.md)
