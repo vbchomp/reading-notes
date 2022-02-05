@@ -1,4 +1,4 @@
-# Class 38 - Redux - Asyncronous Actions
+# Class 38 - Redux - Asynchronous Actions
 
 [<== Main Page](../README.md)
 [<== Code 401](../code401/code401.md)
