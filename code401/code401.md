@@ -38,3 +38,4 @@
 - Class 36 [Application State with Redux](class-36.md)
 - Class 37 [Redux - Combined Reducers](class-37.md)
 - Class 38 [Redux - Asyncronous Actions](class-38.md)
+- Class 39 [Redux - Additional Topics](class-39.md)
