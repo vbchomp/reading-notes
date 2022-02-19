@@ -39,3 +39,6 @@
 - Class 37 [Redux - Combined Reducers](class-37.md)
 - Class 38 [Redux - Asyncronous Actions](class-38.md)
 - Class 39 [Redux - Additional Topics](class-39.md)
+- Class 41 [WIP](class-41.md)
+- Class 42 [Ethics in Tech](class-42.md)
+- Class 43 [OSS Contributions](class-43.md)
